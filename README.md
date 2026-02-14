@@ -54,6 +54,6 @@ Selenium Automation Projects (https://github.com/RohithInkuri2308/TutorialsNinja
 
 - [LinkedIn](https://www.linkedin.com/in/rohith-inkuri-9b464a2a8/)
 
-- [Email](rohithinkuri@gmail.com)
+- [Email](mailto:rohithinkuri@gmail.com)
 
 
