@@ -40,6 +40,8 @@ Selenium Automation Projects (https://github.com/RohithInkuri2308/TutorialsNinja
 
 API Automation Projects (https://github.com/RohithInkuri2308/RestAssured-API.git) - The framework validates core HTTP methods including GET, POST, and PUT operations.
 
+Playwright Automation Project (https://github.com/RohithInkuri2308/Playwright_TypeScript_POM.git) - The framework validates Login functionality and table data validations. 
+
 ---
 
 **Currently Learning**:
