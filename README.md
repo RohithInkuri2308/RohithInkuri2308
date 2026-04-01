@@ -42,6 +42,9 @@ API Automation Projects (https://github.com/RohithInkuri2308/RestAssured-API.git
 
 Playwright Automation Project (https://github.com/RohithInkuri2308/Playwright_TypeScript_POM.git) - The framework validates Login functionality and table data validations. 
 
+Playwright Automation Project using **Claud AI** (https://github.com/RohithInkuri2308/techgadgets-ai-qa.git) - This project demonstrates AI-Assisted QA Test Automation for a live e-commerce web application.
+Bugs were identified and test cases were generated using Claude AI, then automated using Playwright with TypeScript.
+
 ---
 
 **Currently Learning**:
