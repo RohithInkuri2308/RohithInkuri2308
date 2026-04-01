@@ -2,7 +2,7 @@
 
 **Software Developement Engineer in Test (SDET) | Automation & Manual Test Engineer | UI Testing & API Testing | Selenium | Playwright | Rest Assured | Core Java | CI/CD | Agile Methodologies**
 
-Quality Engineer with over 3.8 years of hands-on experience in UI/Web automation as well as manual testing, using industry-standard tools and methodologies to ensure thorough and efficient software testing.
+Quality Engineer with over 3.9 years of hands-on experience in UI/Web automation as well as manual testing, using industry-standard tools and methodologies to ensure thorough and efficient software testing.
 
 ---
 
